@@ -1,6 +1,6 @@
 # Amazon-Food-Reviews-Analysis using KNN
 
-### Performed Exploratory Data Analysis, Data Cleaning, Data Visualization and Text Featurization(BOW,TFIDF,AVG-Word2Vec,TFIDF-W2V).                                                                                                        
+#### Performed Exploratory Data Analysis, Data Cleaning, Data Visualization and Text Featurization(BOW,TFIDF,AVG-Word2Vec,TFIDF-W2V).                                                                                                        
 
 Naive Bayes
 1. Applied Naive Bayes using Bernoulli NB and Multinomial NB on different Data Featurization & visualization . BOW(uni-gram),TFIDF,AVG-W2V,TFIDF-W2V. 
