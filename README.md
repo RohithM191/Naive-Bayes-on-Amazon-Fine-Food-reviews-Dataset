@@ -1,4 +1,4 @@
-# Amazon-Food-Reviews-Analysis using KNN
+# Amazon-Food-Reviews-Analysis using Naive Bayes.
 
 #### Performed Exploratory Data Analysis, Data Cleaning, Data Visualization and Text Featurization(BOW,TFIDF,AVG-Word2Vec,TFIDF-W2V).                                                                                                        
 
